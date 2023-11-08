@@ -31,7 +31,7 @@
     ?>
 
     <div class="text-center mb-3">
-        <img src="../../assets/profile.png" class="rounded" alt="...">
+        <img src="/images/user/profile" class="rounded" alt="...">
         <h4>Nome de usuário atual:
         <?= $username ?>
         </h4>

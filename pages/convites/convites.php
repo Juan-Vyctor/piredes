@@ -19,7 +19,7 @@
         font-family: 'Poppins', sans-serif;
     }
     body {
-        background-image: url('/assets/nano-giga-interactive-lab-infiltration-1.jpg');
+        background-image: url('/images/convites/wallpaper');
         background-position: center;
         }
     .btn{

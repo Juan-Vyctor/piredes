@@ -109,7 +109,7 @@ integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUU
       }
 
       body {
-        background-image: url('../assets/daniel-rosini-murlocs-rpg-final4.jpg');
+        background-image: url('/images/dashboard/wallpaper');
         background-position: center;
       }
 

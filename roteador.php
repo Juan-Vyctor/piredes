@@ -48,4 +48,10 @@ Route::get('/dashboard/superuser/mesa', '/pages/superuser/editarmesas.php', 'adm
 Route::post('/dashboard/superuser/mesa/editar', '/controllers/superuser/updatemesa.php', 'adm');
 Route::get('/dashboard/superuser/mesa/delete', '/controllers/superuser/apagamesa.php', 'adm');
 
+Route::get('/images/home/card', '/assets/figure.png', '');
+Route::get('/images/dashboard/wallpaper', '/assets/daniel-rosini-murlocs-rpg-final4.jpg', '');
+Route::get('/images/user/profile', '/assets/profile.png', '');
+Route::get('/images/mesas/wallpaper', '/assets/daniel-rosini-ritual-final.jpg', '');
+Route::get('/images/convidar/wallpaper', '/assets/nano-giga-interactive-the-dark-forest.jpg', '');
+Route::get('/images/convites/wallpaper', '/assets/nano-giga-interactive-lab-infiltration-1.jpg', '');
 ?>

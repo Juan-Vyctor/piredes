@@ -12,7 +12,7 @@
     <style>
 
         body {
-            background-image: url('../../assets/daniel-rosini-ritual-final.jpg');
+            background-image: url('/images/mesas/wallpaper');
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
